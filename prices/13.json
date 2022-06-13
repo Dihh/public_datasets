@@ -1,0 +1,13 @@
+{
+  "time_period_start": "2021-08-03",
+  "time_period_end": "2021-08-04",
+  "time_open": "2021-08-03",
+  "time_close": "2021-08-03",
+  "price_open": 39157.52,
+  "price_high": 39792.83,
+  "price_low": 37639,
+  "price_close": 38177.07,
+  "volume_traded": 3279.45916825,
+  "trades_count": 26579,
+  "dayDiference": -2.5
+}
