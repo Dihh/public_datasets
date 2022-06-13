@@ -1,0 +1,13 @@
+{
+  "time_period_start": "2021-09-16",
+  "time_period_end": "2021-09-17",
+  "time_open": "2021-09-16",
+  "time_close": "2021-09-16",
+  "price_open": 48188.12,
+  "price_high": 48505,
+  "price_low": 47035,
+  "price_close": 47760.64,
+  "volume_traded": 1885.97199785,
+  "trades_count": 19193,
+  "dayDiference": -0.89
+}

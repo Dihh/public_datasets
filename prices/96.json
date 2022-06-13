@@ -1,0 +1,13 @@
+{
+  "time_period_start": "2021-10-25",
+  "time_period_end": "2021-10-26",
+  "time_open": "2021-10-25",
+  "time_close": "2021-10-25",
+  "price_open": 60883.96,
+  "price_high": 63733.93,
+  "price_low": 60670,
+  "price_close": 63101.43,
+  "volume_traded": 1723.10014118,
+  "trades_count": 19448,
+  "dayDiference": 3.64
+}
