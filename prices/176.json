@@ -1,0 +1,13 @@
+{
+  "time_period_start": "2022-01-13",
+  "time_period_end": "2022-01-14",
+  "time_open": "2022-01-13",
+  "time_close": "2022-01-13",
+  "price_open": 43935.01,
+  "price_high": 44456.34,
+  "price_low": 42321,
+  "price_close": 42571.94,
+  "volume_traded": 1993.88324273,
+  "trades_count": 17232,
+  "dayDiference": -3.1
+}
